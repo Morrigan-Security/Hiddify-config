@@ -14,6 +14,3 @@ Hiddify Warp Subscriptions:
 
 [💎 Subscriptions 4 💎](https://raw.githubusercontent.com/Morrigan-Security/Hiddify-config/main/config4.json)
 
-[💎 Subscriptions 5 💎](https://raw.githubusercontent.com/Morrigan-Security/Hiddify-config/main/config5.json)
-
-[💎 Subscriptions 6 💎](https://raw.githubusercontent.com/Morrigan-Security/Hiddify-config/main/config6.json)
