@@ -4,4 +4,4 @@ free Hiddify configs subscription Link
 
 
 
-https://github.com/Morrigan-Security/Hiddify-config/raw/main/config.json
+[Hiddify Warp Subscription](https://github.com/Morrigan-Security/Hiddify-config/raw/main/config.json)
