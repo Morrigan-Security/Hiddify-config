@@ -4,6 +4,6 @@
 //support-url: https://t.me/ITSecurityComputer
 //profile-web-page-url: https://t.me/ITSecurityComputer
 
-warp://auto4?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m1#m1 IR&&detour=warp://188.114.97.170:894#warp on warp
-warp://auto4?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m2#m2 IR&&detour=warp://188.114.97.170:894#warp on warp
-warp://auto4?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m3#m3 IR&&detour=warp://188.114.97.170:894#warp on warp
+warp://auto4?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m1#m1 IR&&detour=warp://auto4#warp on warp
+warp://auto4?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m2#m2 IR&&detour=warp://auto4#warp on warp
+warp://auto4?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m3#m3 IR&&detour=warp://auto4#warp on warp
